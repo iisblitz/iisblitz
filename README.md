@@ -1,26 +1,29 @@
-
-<h1 align="center">Hello! I'm David Gonzalez</h1>
-<h3 align="center">An industrial engineer starting as a full stack dev</h3>
-<img align="center" src="https://media.tenor.com/RpxxkrGJ5VIAAAAC/thumbs-up-engineer-gaming.gif">
+<h2>David Gonzalez - Industrial engineer / Fullstack dev </h2>
+<img align="center" src="https://imagizer.imageshack.com/img923/2339/oINxNW.gif">
 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iisblitz" alt="iisblitz" /></a> </p>
-
+<div> 
+  
 - 🔭 I’m currently working on [Mujeres Viajeras](https://github.com/iisblitz/Mujeres-Viajeras)
 
 - 🌱 I’m currently learning **MongoDB and Firebase**
 
-- 📝 I'm starting uploading vids at [https://www.linkedin.com/in/david-bernardo-gonz%C3%A1lez-alan%C3%ADs-644a7756/](https://www.linkedin.com/in/david-bernardo-gonz%C3%A1lez-alan%C3%ADs-644a7756/)
+- 📝 I'm starting uploading vids at <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" height="30" width="40" /></a>
 
 - 💬 Ask me about **react and redux**
 
 - 📫 How to reach me **iis_dbga@live.com**
 
 - ⚡ Fun fact **I come from a family of ranchers**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" height="30" width="40" /></a>
+  <p align="left">  
+  
+</div>
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iisblitz" alt="iisblitz" /></a> </p>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
