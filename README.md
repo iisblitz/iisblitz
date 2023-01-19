@@ -1,5 +1,5 @@
 <h2>David Gonzalez - Industrial engineer / Fullstack dev </h2>
-<img align="center" src="https://imagizer.imageshack.com/img923/2339/oINxNW.gif">
+<img align="center" src="https://www.canva.com/design/DAFWkuRmSAo/Noi3IF24TI4AFy-jRlAAfQ/view?utm_content=DAFWkuRmSAo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 
 
 <div> 
