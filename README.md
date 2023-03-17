@@ -4,17 +4,17 @@
 
 <div> 
   
-- 🔭 I’m currently working on [Mujeres Viajeras](https://github.com/iisblitz/Mujeres-Viajeras)
+- 🔭 I’m currently working on [Arracheras Relampago](https://github.com/iisblitz/Arracheras_relampago)
 
-- 🌱 I’m currently learning **MongoDB and Firebase**
+- 🌱 I’m currently learning **Spring boot & aws**
 
 - 📝 I'm starting uploading vids at <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" height="30" width="40" /></a>
 
-- 💬 Ask me about **react and redux**
+- 💬 Ask me about **that time i traveled all the mexican east coast in motorcycle**
 
 - 📫 How to reach me **iis_dbga@live.com**
 
-- ⚡ Fun fact **I've done as much as 16 hour rides in motorcycle**
+- ⚡ Fun fact **I have a flawless record lighting the camp fire in my trips**
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" height="30" width="40" /></a>
   <p align="left">  
