@@ -3,11 +3,9 @@
 
 <div> 
   
-- 🔭 Actualmente trabajo en [MaxFit](Private)
+- 🔭 Actualmente trabajo en Optumus
 
-- 🌱 Estoy aprendiendo **AWS Cognito y Amplify / React Native**
-
-- 📝 Estoy comenzando a subir videos en <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-bernardo-gonz%c3%a1lez-alan%c3%ads-644a7756/" height="30" width="40" /></a>
+- 🌱 Estoy aprendiendo **React Native**
 
 - 💬 Pregúntame sobre **el tiempo en que viajé por toda la costa este de México en motocicleta**
 
